@@ -2,7 +2,7 @@
 
 > Plataforma de operación comercial territorial que transforma una cartera de prospectos en una agenda de campo trazable.
 
-![Vista general](docs/screenshots/01-dashboard.svg)
+![Vista general](docs/screenshots/01-dashboard.png)
 
 ## El desafío
 
@@ -25,9 +25,9 @@ Excel → revisión de calidad → mapa de concentración → territorio
 
 ## Previews
 
-| Territorios | Importación | Demo visual |
+| Territorios | PWA vendedor | Demo visual |
 | --- | --- | --- |
-| ![Territorios](docs/screenshots/02-territories.svg) | ![Importación](docs/screenshots/03-import.svg) | [Abrir demo](demo/index.html) |
+| ![Territorios](docs/screenshots/02-territories.png) | ![PWA vendedor](docs/screenshots/03-seller-pwa.png) | [Abrir demo](demo/index.html) |
 
 ## Arquitectura
 
